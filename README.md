@@ -1,7 +1,3 @@
-Absolutely! Let’s make it more **engaging and reader-friendly** while keeping it professional. Here’s a livelier, polished Markdown version for your Tigrigna STT project:
-
----
-
 # **🎤 Whisper Tigrigna STT: Fine-Tuned Speech-to-Text Model**
 
 Unlock the power of **voice in Tigrigna**! This project fine-tunes **OpenAI Whisper** using **LoRA (Low-Rank Adaptation)** to transcribe **Tigrigna speech into text** with high accuracy. Perfect for transcription, accessibility tools, and voice-driven applications.
