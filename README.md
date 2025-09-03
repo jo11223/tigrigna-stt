@@ -1,4 +1,4 @@
-# **Whisper Tigrigna STT: Fine-Tuned Speech-to-Text Model**
+# **Tigrigna Speech-to-Text Model**
 
 Unlock the power of **voice in Tigrigna**! This project fine-tunes **OpenAI Whisper** using **LoRA (Low-Rank Adaptation)** to transcribe **Tigrigna speech into text** with high accuracy. Perfect for transcription, accessibility tools, and voice-driven applications.
 
